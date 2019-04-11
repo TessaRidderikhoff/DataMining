@@ -1,0 +1,277 @@
+Timestamp,Have you taken a course on machine learning?,Have you taken a course on information retrieval?,Have you taken a course on statistics?,Have you taken a course on databases?,What is your gender?,Chocolate makes you.....,What makes a good day for you (1)?,What makes a good day for you (2)?,What programme are you in?,Birth Day,Birth Month,Birth Year,Neighbors,Competition,Random,Stress,Time you went to be Yesterday
+3/27/2019 10:16:11,yes,1,mu,ja,unknown,slim,sun,lecture,artificial intelligence,,,,3.0,100.0,6.0,,23.0
+4/1/2019 15:58:21,no,0,mu,ja,male,fat,dm,ai,artificial intelligence,9.0,7.0,1992.0,1.0,0.0,7.0,1.0,3.0
+4/1/2019 15:59:07,yes,1,unknown,ja,male,neither,0,0,computer science,4.0,8.0,1995.0,0.0,0.0,0.0,100.0,0.0
+4/1/2019 15:59:30,yes,1,mu,ja,male,fat,winning,food,econometrics and operations research,29.0,9.0,1993.0,2.0,42.0,1.645,0.0,0.0
+4/1/2019 15:59:58,no,1,mu,ja,male,neither,kiss,love,computer science,2.0,12.0,1993.0,2.0,,66.0,100.0,20.0
+4/1/2019 16:00:01,yes,1,mu,ja,male,unknown,ganja,sun,artificial intelligence,31.0,12.0,1994.0,0.0,,420.0,100.0,0.0
+4/1/2019 16:00:12,yes,0,mu,nee,female,neither,chocolate,sun,bioinformatics and systems biology,9.0,10.0,1995.0,,100.0,739.0,80.0,22.0
+4/1/2019 16:00:16,yes,1,mu,ja,male,i have no idea what you are talking about,stay with my friends,sun,bioinformatics and systems biology,22.0,7.0,1996.0,0.0,,5.0,50.0,24.0
+4/1/2019 16:00:21,no,0,mu,ja,male,neither,done something useful,had fun,computational science,30.0,2.0,1945.0,0.0,0.0,31.0,0.0,3.0
+4/1/2019 16:00:31,yes,1,mu,nee,male,neither,a sunny day,relax walks,artificial intelligence,30.0,2.0,1945.0,,,5.0,80.0,2.0
+4/1/2019 16:00:52,yes,0,mu,nee,male,neither,sun,sleep,bioinformatics and systems biology,10.0,6.0,1991.0,470.0,20.0,3851.0,150.0,23.0
+4/1/2019 16:00:59,no,0,mu,nee,male,fat,sun,food,computational science,10.0,6.0,1991.0,3.0,0.25,6.0,20.0,3.0
+4/1/2019 16:00:59,yes,1,mu,nee,male,i have no idea what you are talking about,good sleep,good breakfast,artificial intelligence,18.0,3.0,1994.0,3.0,100000000.0,7.0,10.0,0.0
+4/1/2019 16:01:02,yes,1,mu,ja,male,fat,girls,alcohol,business administration/business analytics,2.0,8.0,1996.0,1.0,100.0,16.0,16.0,23.0
+4/1/2019 16:01:03,yes,1,mu,ja,male,fat,sun,food,business administration/business analytics,1.0,5.0,1996.0,2.0,95.0,314.152,50.0,0.0
+4/1/2019 16:01:04,yes,0,mu,nee,male,neither,work,good sleep,econometrics and operations research,1.0,5.0,1996.0,11.0,50.0,11.0,10.0,2.0
+4/1/2019 16:01:04,no,0,mu,nee,male,fat,if i went to the gym,healthy food,econometrics and operations research,3.0,3.0,1994.0,6.0,30.0,5.0,0.0,5.0
+4/1/2019 16:01:06,yes,1,mu,ja,male,fat,sun,football,business administration/business analytics,17.0,5.0,1994.0,7.0,30.0,17.0,17.0,22.0
+4/1/2019 16:01:09,yes,1,mu,ja,male,fat,sunshine,good meals,bioinformatics and systems biology,28.0,8.0,1994.0,3.0,50.0,7.0,40.0,24.0
+4/1/2019 16:01:13,yes,0,mu,ja,female,neither,sun,good food,business administration/business analytics,27.0,12.0,1996.0,1.0,100.0,7.0,20.0,23.0
+4/1/2019 16:01:13,yes,0,mu,ja,female,fat,horses,chocolate,bioinformatics and systems biology,18.0,10.0,1996.0,2.0,100.0,2.0,12.0,21.0
+4/1/2019 16:01:13,no,1,mu,nee,female,slim,sun,nice food,artificial intelligence,21.0,8.0,1995.0,,100.0,6.0,2.0,1.0
+4/1/2019 16:01:13,no,0,mu,ja,male,fat,good news,very good news,artificial intelligence,10.0,6.0,1995.0,4.0,0.0,888.0,63.0,18.0
+4/1/2019 16:01:14,yes,1,mu,ja,female,fat,sunshine,nice food,artificial intelligence,9.0,8.0,1996.0,1.0,10.0,2.0,0.0,0.0
+4/1/2019 16:01:15,yes,1,mu,ja,male,neither,sun,relaxing,artificial intelligence,24.0,2.0,1994.0,1.0,20.0,251656723.0,0.0,2.0
+4/1/2019 16:01:16,yes,0,mu,nee,male,neither,sea,weather,bioinformatics and systems biology,4.0,6.0,1994.0,0.0,0.01,1.7572857155648225e+28,98.0,1.0
+4/1/2019 16:01:16,yes,0,mu,ja,female,slim,sunshine,holiday,artificial intelligence,1.0,1.0,1993.0,5.0,5.0,6.0,20.0,1.0
+4/1/2019 16:01:17,no,0,mu,nee,female,neither,sunshine,vacation,computational science,29.0,3.0,1993.0,1.0,0.25,9.0,10.0,23.0
+4/1/2019 16:01:17,yes,1,mu,ja,female,slim,tony chocolonely toffee pretzel donkere melk of peanutbutter ben and jerry's ,cuddling with dogs ,bioinformatics and systems biology,11.0,6.0,1996.0,2.0,100.0,5.796599878786488e+17,3.0,22.0
+4/1/2019 16:01:17,yes,0,mu,nee,male,i have no idea what you are talking about,sun,summer,business administration/business analytics,11.0,8.0,1996.0,2.0,50.0,9.0,5.0,22.0
+4/1/2019 16:01:18,yes,0,sigma,nee,unknown,neither,being around friends,figuring something out,computational science,15.0,10.0,1990.0,4.0,0.0,8.0,99.0,23.0
+4/1/2019 16:01:18,yes,1,mu,ja,male,fat,friends,good food,information sciences,3.0,11.0,1991.0,5.0,3.5,2.0,22.0,0.0
+4/1/2019 16:01:24,yes,0,mu,nee,unknown,neither,weed,lovely people ,bioinformatics and systems biology,15.0,7.0,1995.0,1.0,10.0,6546498975632.32,0.0,13.0
+4/1/2019 16:01:25,no,0,mu,nee,male,i have no idea what you are talking about,going for a run,having sex,finance,15.0,7.0,1988.0,10.0,60.0,9.0,40.0,24.0
+4/1/2019 16:01:25,yes,1,mu,ja,male,fat,food,sex,finance,25.0,5.0,1995.0,2.0,1.0,9.0,80.0,1.0
+4/1/2019 16:01:25,no,0,mu,nee,male,i have no idea what you are talking about,food,people,computer science,5.0,12.0,1995.0,6.0,5.0,5.0,60.0,2.0
+4/1/2019 16:01:27,yes,0,mu,nee,female,i have no idea what you are talking about,sun,food,bioinformatics and systems biology,12.0,12.0,1995.0,2.0,20.0,12.0,10.0,1.0
+4/1/2019 16:01:28,no,0,mu,nee,male,i have no idea what you are talking about,nice weather,no stress,econometrics and operations research,2.0,5.0,1995.0,469.0,100.0,7.0,0.0,1.0
+4/1/2019 16:01:29,yes,1,mu,ja,female,fat,no lectures and work,food,business administration/business analytics,3.0,1.0,1995.0,10.0,10.0,8.0,20.0,21.0
+4/1/2019 16:01:29,no,0,mu,nee,female,slim,sunshine,friends,artificial intelligence,13.0,7.0,1995.0,1.0,,5.0,110.0,2.0
+4/1/2019 16:01:29,no,1,mu,ja,female,fat,good conversation,being with friends ,computational science,3.0,12.0,1995.0,4.0,0.0,5.83,60.0,1.0
+4/1/2019 16:01:29,yes,0,mu,ja,male,fat,laughing,smiling,bioinformatics and systems biology,7.0,4.0,1995.0,5.0,100471.0,7.0,15.0,1.0
+4/1/2019 16:01:29,yes,1,mu,ja,male,neither,gym,enough sleep,business administration/business analytics,23.0,2.0,1997.0,4.0,15.0,1.0,30.0,23.0
+4/1/2019 16:01:29,yes,1,mu,ja,female,neither,sunshine,sports,artificial intelligence,30.0,3.0,1995.0,8.0,60.0,46743222.0,25.0,21.0
+4/1/2019 16:01:29,no,0,mu,nee,male,i have no idea what you are talking about,food,sunshine,computational science,9.0,3.0,1994.0,4.0,0.2,3.0,33.0,22.0
+4/1/2019 16:01:29,yes,1,mu,nee,male,neither,vim,emacs,computer science,27.0,4.0,1994.0,4.0,100.0,6483920484627.0,10.0,3.0
+4/1/2019 16:01:30,yes,0,mu,nee,male,neither,a lot of sleep,coffee,bioinformatics and systems biology,11.0,5.0,1996.0,0.0,1.0,4.0,9000.0,1.0
+4/1/2019 16:01:31,yes,0,mu,nee,male,neither,enough sleep,sunshine,information sciences,13.0,9.0,1995.0,6.0,85.0,3.14,50.0,23.0
+4/1/2019 16:01:31,no,0,sigma,nee,male,neither,sport,food,computational science,23.0,1.0,1994.0,3.0,3.0,3.0,15.0,23.0
+4/1/2019 16:01:31,yes,1,mu,ja,male,unknown,food,sex,computer science,23.0,1.0,1994.0,,100470.0,777777777.0,50.0,1.0
+4/1/2019 16:01:31,yes,1,mu,ja,male,neither,sun,food,artificial intelligence,23.0,1.0,1994.0,,100.0,5587458772588865.0,,
+4/1/2019 16:01:33,yes,1,mu,ja,male,neither,the weather,amount of work needed to be done,artificial intelligence,19.0,12.0,1995.0,1.0,15.0,8.5,0.0,2.0
+4/1/2019 16:01:33,yes,1,sigma,ja,female,neither,travel,party,computer science,19.0,12.0,1993.0,7.0,90.0,7.0,20.0,1.0
+4/1/2019 16:01:33,yes,0,mu,ja,female,fat,friends & family,sports,artificial intelligence,12.0,12.0,1995.0,6.0,5.0,1212.0,30.0,24.0
+4/1/2019 16:01:34,no,0,mu,nee,male,i have no idea what you are talking about,weather,good food,econometrics and operations research,23.0,8.0,1992.0,3921.0,91.0,27.0,99.9,1.0
+4/1/2019 16:01:34,no,0,mu,nee,male,fat,good food,warm weather,econometrics and operations research,4.0,4.0,1996.0,0.0,2.0,4.83636354,30.0,2.0
+4/1/2019 16:01:34,no,0,mu,nee,male,fat,sun,food,business administration/business analytics,22.0,7.0,1995.0,2.0,33.33,9.0,69.0,23.0
+4/1/2019 16:01:34,yes,0,mu,ja,male,neither,sun,good food,computer science,11.0,2.0,1996.0,2.0,100.0,69.0,10.0,23.0
+4/1/2019 16:01:34,yes,0,mu,ja,male,i have no idea what you are talking about,a nice meal,sleep late,business administration/business analytics,26.0,5.0,1997.0,7.0,100.0,7.0,0.0,24.0
+4/1/2019 16:01:35,yes,0,sigma,nee,male,i have no idea what you are talking about,activities,people,artificial intelligence,2.0,12.0,1992.0,1.0,0.4,6.0,20.0,23.0
+4/1/2019 16:01:35,yes,1,mu,ja,male,fat,surprise money,surprise presents,computer science,2.0,12.0,1992.0,4.0,50.0,3.14159265359,99.0,4.0
+4/1/2019 16:01:35,yes,1,mu,ja,male,i have no idea what you are talking about,no hangover,sleep,artificial intelligence,13.0,5.0,1992.0,2.0,1470.0,7.0,15.0,1.0
+4/1/2019 16:01:36,yes,0,mu,nee,female,fat,working out,meeting with friends,medical informatics,18.0,11.0,1995.0,2.0,10.0,8.0,10.0,23.0
+4/1/2019 16:01:36,unknown,0,mu,nee,female,slim,sun,vacation,business administration/business analytics,27.0,6.0,1991.0,1.0,100.0,3.0,100.0,2.0
+4/1/2019 16:01:36,no,0,mu,ja,female,i have no idea what you are talking about,playing volleyball,sleeping and playing more volleyball,bioinformatics and systems biology,25.0,2.0,1993.0,5.0,20.0,7.0,20.0,23.0
+4/1/2019 16:01:36,yes,1,mu,ja,male,fat,good weather,meeting my friends,artificial intelligence,30.0,1.0,1996.0,1.0,10.0,7.0,7.0,3.0
+4/1/2019 16:01:36,yes,1,mu,ja,male,unknown,no lectures,waking up early,computer science,5.0,2.0,1986.0,,50.0,1.0,0.0,23.0
+4/1/2019 16:01:36,yes,1,mu,ja,male,neither,beer,sunshine,artificial intelligence,3.0,10.0,1996.0,2.0,20.0,96.0,10.0,23.0
+4/1/2019 16:01:37,yes,0,mu,ja,female,fat,sun,chocolate,business administration/business analytics,31.0,10.0,1996.0,8.0,80.0,2.0,75.0,22.0
+4/1/2019 16:01:37,yes,0,mu,ja,male,neither,beer,sun,econometrics and operations research,10.0,5.0,1996.0,7.0,0.0,2.0,20.0,22.0
+4/1/2019 16:01:37,yes,0,mu,ja,unknown,i have no idea what you are talking about,chocolate,learning,other,1.0,9.0,1996.0,5.0,1.0,8.0,37.0,3.0
+4/1/2019 16:01:38,yes,0,sigma,ja,male,fat,cold beer in the sun,sex,bioinformatics and systems biology,18.0,7.0,1995.0,2.0,101.0,8.0,10.0,1.0
+4/1/2019 16:01:38,no,0,mu,ja,female,fat,sun,friends,business administration/business analytics,14.0,3.0,1995.0,2.0,80.0,7.0,30.0,0.0
+4/1/2019 16:01:38,yes,1,mu,ja,male,neither,music,sunshine,business administration/business analytics,15.0,2.0,1994.0,1.0,99.0,,99.0,22.0
+4/1/2019 16:01:39,yes,1,mu,ja,male,neither,gym,free beer,artificial intelligence,19.0,1.0,1996.0,5.0,0.0,341.0,40.0,23.0
+4/1/2019 16:01:39,yes,0,mu,ja,female,slim,chocolate,no lecture,computational science,8.0,2.0,1997.0,400.0,50.0,8.0,200.0,21.0
+4/1/2019 16:01:39,yes,1,mu,nee,male,neither,sunshine,sleeping in,artificial intelligence,26.0,10.0,1997.0,5.0,80.0,3.0,0.0,23.0
+4/1/2019 16:01:39,yes,1,mu,ja,female,i have no idea what you are talking about,sun,friends,artificial intelligence,1.0,4.0,1997.0,3.0,10.0,7.0,60.0,0.0
+4/1/2019 16:01:39,yes,1,mu,nee,female,unknown,sunshine,big breakfast,artificial intelligence,14.0,11.0,1995.0,0.0,21.0,1.0,0.0,23.0
+4/1/2019 16:01:40,no,0,mu,ja,female,neither,sun,good food ,artificial intelligence,17.0,10.0,1996.0,5.0,200.0,7.0,30.0,23.0
+4/1/2019 16:01:40,yes,0,mu,nee,female,neither,no stress,nice food,sociology,5.0,9.0,1993.0,2.0,10.0,7.0,10.0,2.0
+4/1/2019 16:01:40,yes,1,mu,nee,male,neither,friends,food,artificial intelligence,22.0,3.0,1994.0,1.0,99.0,7.0,5.0,24.0
+4/1/2019 16:01:40,no,0,mu,ja,male,slim,good food,weekend,econometrics and operations research,6.0,12.0,1993.0,2.0,90.0,3.14,110.0,23.0
+4/1/2019 16:01:40,no,0,mu,nee,male,neither,good weather ,alcohol,finance,4.0,12.0,1995.0,2.0,1.0,3.0,68.0,2.0
+4/1/2019 16:01:40,yes,1,mu,ja,male,neither,mood,succes,artificial intelligence,4.0,6.0,1997.0,3.0,5.0,7.0,60.0,3.0
+4/1/2019 16:01:40,no,0,mu,nee,female,slim,sunshine,getting work done,computational science,13.0,8.0,1996.0,3.0,1.0000000000000002e+22,3.5282625,,23.0
+4/1/2019 16:01:40,yes,1,mu,ja,male,neither,the sun,don't have stress,artificial intelligence,21.0,5.0,1995.0,2.0,25.0,7.0,10.0,23.0
+4/1/2019 16:01:40,yes,1,mu,ja,female,i have no idea what you are talking about,sunshine,friends,business administration/business analytics,7.0,6.0,1994.0,5.0,0.25,3.14,15.0,1.0
+4/1/2019 16:01:39,no,0,mu,nee,male,fat,sunny,no exams,finance,15.0,5.0,1994.0,2.0,0.0,7.0,50.0,1.0
+4/1/2019 16:01:40,no,0,mu,ja,male,i have no idea what you are talking about,no deadlines,no stress,bioinformatics and systems biology,26.0,6.0,1994.0,10.0,50.0,7.0,99.0,13.0
+4/1/2019 16:01:40,yes,0,mu,ja,male,neither,beer,sex,bioinformatics and systems biology,3.0,11.0,1992.0,1.0,100.0,2.0,80.0,23.0
+4/1/2019 16:01:41,yes,0,mu,ja,female,neither,sun,food,business administration/business analytics,27.0,11.0,1996.0,7.0,1.0,5.0,75.0,0.0
+4/1/2019 16:01:41,yes,1,mu,ja,female,neither,sunshine,coffee,artificial intelligence,25.0,11.0,1994.0,5.0,100.0,5.0,55.0,0.0
+4/1/2019 16:01:41,no,0,mu,nee,male,fat,sunny,passing the data mining course,finance,27.0,1.0,1993.0,1.0,0.25,5.0,0.0,24.0
+4/1/2019 16:01:41,yes,1,mu,ja,male,i have no idea what you are talking about,pizza,lot of time in bed,business administration/business analytics,10.0,9.0,1995.0,1.0,2.5,9.0,53.0,23.0
+4/1/2019 16:01:41,yes,0,mu,nee,male,neither,sun,free,business administration/business analytics,15.0,4.0,1995.0,2.0,7.0,7.0,0.0,24.0
+4/1/2019 16:01:41,yes,0,mu,ja,male,fat,no deadline,party,business administration/business analytics,12.0,8.0,1996.0,2.0,5.0,6.0,4.0,23.0
+4/1/2019 16:01:41,yes,0,mu,nee,male,fat,chocolate ,mathematics ,business administration/business analytics,10.0,8.0,1996.0,0.0,100471.0,4.0,42.0,0.0
+4/1/2019 16:01:41,no,0,mu,nee,male,fat,weekend,fun,econometrics and operations research,3.0,6.0,1995.0,2.0,100.0,9.0,10.0,23.0
+4/1/2019 16:01:41,yes,0,mu,ja,male,fat,sex,beer,business administration/business analytics,20.0,9.0,1995.0,3.0,50.0,25.0,100.0,24.0
+4/1/2019 16:01:42,yes,1,mu,ja,female,neither,when i’m productive,when i feel good,artificial intelligence,14.0,1.0,1992.0,8.0,0.0,4.0,20.0,21.0
+4/1/2019 16:01:42,yes,0,mu,nee,male,neither,fruitful day ,good weather,econometrics and operations research,13.0,10.0,1992.0,2.0,70.0,4.0,13.0,23.0
+4/1/2019 16:01:42,yes,0,mu,ja,female,i have no idea what you are talking about,sun,sport,business administration/business analytics,21.0,10.0,1996.0,2.0,100.0,8.0,0.0,23.0
+4/1/2019 16:01:42,no,0,mu,nee,female,fat,sun,alcohol,business administration/business analytics,25.0,8.0,1993.0,1.0,33.33,9.0,88.0,23.0
+4/1/2019 16:01:42,no,0,mu,nee,female,slim,sunshine,good food,artificial intelligence,31.0,1.0,1995.0,6.0,10.0,3.0,70.0,0.0
+4/1/2019 16:01:42,yes,1,mu,ja,male,slim,sunshine,money,business administration/business analytics,1.0,5.0,1996.0,7.0,2.0,5.0,1.0,23.0
+4/1/2019 16:01:43,yes,0,mu,ja,male,i have no idea what you are talking about,pizza,sleep late,business administration/business analytics,9.0,7.0,1996.0,2.0,100.0,7.0,25.0,24.0
+4/1/2019 16:01:43,no,0,mu,nee,male,fat,good food,sex,artificial intelligence,24.0,9.0,1996.0,6.0,0.0,9.0,70.0,23.0
+4/1/2019 16:01:43,no,0,mu,nee,female,neither,love,adventure,artificial intelligence,15.0,9.0,1994.0,24.0,100.0,9.0,45.0,22.0
+4/1/2019 16:01:43,yes,0,mu,nee,female,slim,sunshine,friends,artificial intelligence,28.0,4.0,1997.0,6.0,1.0,8.0,50.0,1.0
+4/1/2019 16:01:43,yes,1,mu,ja,male,fat,finishing all the tasks,sun ,artificial intelligence,30.0,7.0,1997.0,1.0,2.0,10.0,30.0,23.0
+4/1/2019 16:01:43,no,unknown,mu,ja,male,neither,sunshine,no work,computer science,10.0,6.0,1989.0,5.0,1.0,10.0,1.0,1.0
+4/1/2019 16:01:43,yes,1,mu,ja,male,fat,learning something,finishing work,computational science,10.0,6.0,1995.0,7.0,100.0,7.0,0.0,1.0
+4/1/2019 16:01:43,yes,0,mu,nee,male,neither,good sleep,nice people around,artificial intelligence,15.0,9.0,1992.0,300.0,1.0,67.0,60.0,0.0
+4/1/2019 16:01:44,no,1,mu,ja,female,fat,sunshine,coffee,computational science,24.0,5.0,1996.0,,10.0,1.25,10.0,1.0
+4/1/2019 16:01:44,yes,1,mu,ja,female,fat,sun,friends,business administration/business analytics,4.0,10.0,1995.0,2.0,1.0,7.0,9.0,23.0
+4/1/2019 16:01:45,yes,1,mu,ja,male,neither,birthday,trains on time,artificial intelligence,7.0,8.0,1993.0,8.0,100.0,2104.0,0.0,22.0
+4/1/2019 16:01:45,no,1,sigma,nee,male,neither,food,weed,computer science,7.0,1.0,1993.0,6.0,50.0,6.0,10.0,3.0
+4/1/2019 16:01:45,yes,1,mu,ja,male,i have no idea what you are talking about,sun,beer,artificial intelligence,24.0,9.0,1993.0,2.0,1.0,8.0,0.0,24.0
+4/1/2019 16:01:45,yes,1,mu,nee,female,i have no idea what you are talking about,sun,spare time,artificial intelligence,2.0,3.0,1993.0,5.0,5.0,4.0,50.0,23.0
+4/1/2019 16:01:45,no,0,mu,nee,male,fat,nice food,sport,finance,16.0,1.0,1997.0,2.0,0.0,7.0,0.0,1.0
+4/1/2019 16:01:45,yes,1,sigma,ja,female,i have no idea what you are talking about,sun,good vibes,bioinformatics and systems biology,11.0,6.0,1991.0,5.0,70.0,8.0,60.0,2.0
+4/1/2019 16:01:45,no,0,mu,nee,female,i have no idea what you are talking about,mind-blowing sex,sunshine,health sciences,4.0,10.0,1994.0,4.0,3.0,6.78,10.0,22.0
+4/1/2019 16:01:45,no,0,mu,nee,female,neither,good food,productive,artificial intelligence,4.0,10.0,1995.0,2.0,25.0,1.0,50.0,0.0
+4/1/2019 16:01:45,yes,1,mu,ja,male,fat,going to the vu,drinking beer ,business administration/business analytics,6.0,3.0,1995.0,1.0,85.0,3.0,0.0,23.0
+4/1/2019 16:01:45,no,0,mu,nee,male,neither,sun,euros,business administration/business analytics,17.0,7.0,1995.0,2.0,50.0,8.0,0.0,3.0
+4/1/2019 16:01:46,yes,1,mu,nee,male,i have no idea what you are talking about,food,beer,computer science,1.0,10.0,1996.0,3.0,100.0,8.0,10.0,6.0
+4/1/2019 16:01:46,yes,1,mu,nee,male,neither,no deadlines ,good weather ,computational science,4.0,12.0,1991.0,5.0,35.0,7.0,0.0,1.0
+4/1/2019 16:01:46,no,1,mu,nee,female,i have no idea what you are talking about,fnatic winning games in lec,sunny weather and some cider,artificial intelligence,19.0,12.0,1993.0,2.0,0.2,3.0,10.0,0.0
+4/1/2019 16:01:46,no,0,mu,nee,male,i have no idea what you are talking about,eating yoghurt,doing hobbies,computational science,16.0,12.0,1993.0,,1.0,3.1415900000000003,57.0,24.0
+4/1/2019 16:01:46,yes,1,mu,ja,male,neither,relaxing,eating good food,computational science,24.0,9.0,1996.0,2.0,47100.0,2.0,0.0,
+4/1/2019 16:01:46,yes,0,mu,nee,male,i have no idea what you are talking about,enough sleep,enough fysical excercise,business administration/business analytics,2.0,5.0,1975.0,6.0,50.0,1.0,40.0,0.0
+4/1/2019 16:01:46,yes,0,mu,nee,male,fat,being productive,being social,econometrics and operations research,2.0,3.0,1994.0,8.0,99.0,1.0,0.0,22.0
+4/1/2019 16:01:47,yes,0,unknown,nee,unknown,neither,serotonin,my frens,bioinformatics and systems biology,9.0,9.0,1996.0,5.0,25.0,666.0,20.0,1.0
+4/1/2019 16:01:47,yes,0,mu,nee,male,slim,good food,good times with friends,bioinformatics and systems biology,9.0,9.0,1996.0,10.0,5.0,,0.02,23.0
+4/1/2019 16:01:47,no,1,mu,nee,male,fat,enough sleep,worker out,business administration/business analytics,17.0,5.0,1993.0,6.0,27.0,5.0,60.0,22.0
+4/1/2019 16:01:47,no,0,mu,nee,female,fat,meeting a good friend ,sports,artificial intelligence,14.0,9.0,1996.0,8.0,100.0,9.0,30.0,0.0
+4/1/2019 16:01:47,no,0,mu,nee,female,slim,laughing,food,econometrics and operations research,22.0,3.0,1996.0,400.0,15.0,5.0,80.0,23.0
+4/1/2019 16:01:48,yes,1,sigma,ja,male,i have no idea what you are talking about,sunshine,slumberparties,computer science,22.0,3.0,1994.0,9.0,100.0,0.0,1.0,5.0
+4/1/2019 16:01:48,yes,0,mu,ja,unknown,i have no idea what you are talking about,sun,friends,information sciences,27.0,9.0,1994.0,470.0,5.0,7.0,2.0,1.0
+4/1/2019 16:01:48,yes,1,mu,ja,male,fat,good food,hot shower,artificial intelligence,5.0,5.0,1993.0,1.0,5.0,4.57,99.0,0.0
+4/1/2019 16:01:48,yes,1,mu,nee,male,fat,a dopamine rush,sun shining,artificial intelligence,7.0,10.0,1994.0,5.0,3.0,3.0,68.0,1.0
+4/1/2019 16:01:48,yes,0,mu,ja,female,neither,sunshine,friends ,business administration/business analytics,14.0,7.0,1995.0,8.0,80.0,8.0,10.0,22.0
+4/1/2019 16:01:48,yes,1,mu,nee,male,i have no idea what you are talking about,kindness,food,artificial intelligence,14.0,7.0,1991.0,400.0,100400.0,2.0,5.0,23.0
+4/1/2019 16:01:48,no,0,mu,nee,male,neither,enough time in the morning,slow day,finance,17.0,3.0,1994.0,3.0,0.25,7.0,0.0,1.0
+4/1/2019 16:01:48,no,1,mu,ja,female,neither,when i see dogs and can pet them,when i get to spend the day with my boyfriend,artificial intelligence,30.0,10.0,1994.0,1.0,100.0,7.0,15.0,1.0
+4/1/2019 16:01:49,yes,0,mu,nee,female,fat,nice weather ,lovely people around you ,bioinformatics and systems biology,4.0,6.0,1994.0,1.0,6.0,6.0,6.0,2.0
+4/1/2019 16:01:49,no,0,mu,nee,female,neither,friends,weather,computational science,14.0,7.0,1994.0,4.0,1.0,6.0,10.0,1.0
+4/1/2019 16:01:49,yes,0,mu,ja,male,neither,no deadlines to work on ,sunny weather ,artificial intelligence,4.0,8.0,1993.0,1.0,12.0,8.0,20.0,2.0
+4/1/2019 16:01:49,no,1,unknown,nee,male,fat,sun cream,sailboat,computational science,20.0,12.0,1993.0,400.0,0.2,6.0,40.0,22.0
+4/1/2019 16:01:49,yes,1,sigma,ja,female,neither,productive ,chocolate ,artificial intelligence,30.0,4.0,1993.0,5.0,100.0,9.0,0.0,23.0
+4/1/2019 16:01:49,yes,0,mu,nee,female,slim,beach,sun,business administration/business analytics,7.0,2.0,1995.0,2.0,1000.0,8.0,10.0,1.0
+4/1/2019 16:01:50,no,0,mu,ja,male,fat,sunny day,fun,finance,27.0,8.0,1996.0,1.0,90.0,7.0,70.0,23.0
+4/1/2019 16:01:50,yes,1,mu,unknown,male,i have no idea what you are talking about,fun ,daan,artificial intelligence,18.0,6.0,1992.0,20.0,,1.0,2.0,1.0
+4/1/2019 16:01:50,yes,0,mu,ja,male,slim,no lectures,pizza,business administration/business analytics,9.0,11.0,2001.0,471.0,5.0,1.0,10.0,2.0
+4/1/2019 16:01:50,yes,0,mu,ja,male,i have no idea what you are talking about,"weed, beer","no weed, no beer, no sun",computer science,11.0,8.0,1994.0,6.0,25.0,3.141,5.0,1.0
+4/1/2019 16:01:50,no,1,mu,nee,female,neither,succeeding in life,being well rested,artificial intelligence,2.0,9.0,1995.0,2.0,1.0,5.0,60.0,23.0
+4/1/2019 16:01:51,no,0,mu,nee,male,i have no idea what you are talking about,completing my thesis,passing this course,econometrics and operations research,9.0,10.0,1993.0,7.0,7.0,2.0,5.0,1.0
+4/1/2019 16:01:51,yes,0,mu,ja,male,i have no idea what you are talking about,blue sunny sky,gangbangparty,computer science,16.0,2.0,1989.0,10.0,1000.0,6.0,100.0,3.0
+4/1/2019 16:01:51,yes,0,mu,ja,male,i have no idea what you are talking about,success,love,artificial intelligence,16.0,2.0,1995.0,2.0,100.0,9.0,80.0,3.0
+4/1/2019 16:01:51,no,0,mu,nee,male,fat,having time to chill,still being productive,finance,2.0,9.0,1994.0,8.0,0.0,1.0,50.0,0.0
+4/1/2019 16:01:51,no,0,mu,nee,female,unknown,everything,everything,computational science,11.0,3.0,1996.0,1.0,16.0,6.0,100.0,0.0
+4/1/2019 16:01:52,no,0,mu,ja,male,neither,winning a tennis match,being with friends,bioinformatics and systems biology,13.0,2.0,1995.0,4.0,5.0,9.0,30.0,1.0
+4/1/2019 16:01:51,yes,1,mu,nee,male,neither,productive,gezellig,artificial intelligence,12.0,3.0,1997.0,8.0,5.0,8.0,50.0,0.0
+4/1/2019 16:01:52,unknown,unknown,unknown,unknown,unknown,unknown,x,x,other,12.0,3.0,1997.0,,,,,
+4/1/2019 16:01:52,no,0,mu,nee,female,i have no idea what you are talking about,llamas,pungent paws,artificial intelligence,3.0,6.0,1997.0,469.0,100470.0,5.0,78.0,2.0
+4/1/2019 16:01:53,no,0,unknown,ja,female,fat,enough sleep the night before,a sunny day,bioinformatics and systems biology,1.0,5.0,1996.0,250.0,10.0,84.0,50.0,23.0
+4/1/2019 16:01:53,yes,1,mu,nee,unknown,neither,food,drinks,bioinformatics and systems biology,8.0,7.0,1985.0,4.0,30.0,9.0,50.0,22.0
+4/1/2019 16:01:53,yes,1,mu,nee,male,i have no idea what you are talking about,nice weather,good food,artificial intelligence,8.0,7.0,1995.0,5.0,,2.0,80.0,0.0
+4/1/2019 16:01:53,no,0,mu,nee,male,i have no idea what you are talking about,good weather,being drunk,computational science,11.0,11.0,1995.0,8.0,99.0,7.0,10.0,0.0
+4/1/2019 16:01:53,yes,0,unknown,ja,male,i have no idea what you are talking about,weed,sex,bioinformatics and systems biology,19.0,12.0,1992.0,20.0,90.0,8.0,75.0,0.0
+4/1/2019 16:01:53,no,0,sigma,nee,male,fat,small things that go right ,happy people,"management, policy analysis and entrepeneurship in health and life sciences",10.0,8.0,1996.0,0.0,30.0,2.0,80.0,23.0
+4/1/2019 16:01:56,no,0,mu,nee,male,fat,being at the vu,living at the vu,computational science,13.0,7.0,1995.0,8.0,100.0,227.0,50.0,14.0
+4/1/2019 16:01:54,yes,0,mu,nee,male,i have no idea what you are talking about,gf,weed,artificial intelligence,22.0,9.0,1993.0,22.0,100.0,7.0,60.0,20.0
+4/1/2019 16:01:55,no,0,mu,nee,male,i have no idea what you are talking about,food,dog,computer science,22.0,2.0,1993.0,4.0,10.0,7.0,70.0,24.0
+4/1/2019 16:01:55,yes,1,mu,ja,male,fat,sex,no school,business administration/business analytics,15.0,10.0,1993.0,1.0,50.0,8.0,75.0,23.0
+4/1/2019 16:01:55,no,0,mu,nee,male,neither,slept well,ate well,finance,22.0,11.0,1993.0,5.0,100470.0,12.0,0.0,22.0
+4/1/2019 16:01:55,yes,0,sigma,ja,male,i have no idea what you are talking about,sun light,warm weather,computational science,12.0,4.0,1993.0,2.0,7.0,4.0,42.0,23.0
+4/1/2019 16:01:55,yes,1,mu,ja,male,i have no idea what you are talking about,nice food,data mining lectures,artificial intelligence,23.0,1.0,1996.0,6.0,40.0,7.0,5.0,24.0
+4/1/2019 16:01:55,yes,0,mu,nee,female,fat,good night of sleep,working out,bioinformatics and systems biology,30.0,7.0,1992.0,8.0,1.0,7.0,50.0,22.0
+4/1/2019 16:01:55,yes,0,mu,nee,male,fat,coffee,sun,bioinformatics and systems biology,30.0,10.0,1992.0,9.0,5.0,2.0,25.0,23.0
+4/1/2019 16:01:56,no,0,unknown,nee,unknown,fat,sunny ,free of work,finance,2.0,9.0,1993.0,4.0,100.0,7.0,75.0,0.0
+4/1/2019 16:01:56,yes,1,mu,nee,female,fat,nice weather ,friends ,artificial intelligence,7.0,10.0,1993.0,2.0,0.25,9.0,5.0,22.0
+4/1/2019 16:01:56,no,1,mu,ja,male,i have no idea what you are talking about,sun,-,information sciences,7.0,3.0,1993.0,1.0,42.0,6.0,42.0,24.0
+4/1/2019 16:01:56,no,0,mu,ja,male,fat,sun ,day drinking ,computational science,13.0,1.0,1994.0,5.0,10.0,1.0,15.0,23.0
+4/1/2019 16:01:57,no,0,mu,nee,female,slim,coffee,sunshine,econometrics and operations research,15.0,6.0,1996.0,2.0,10.0,4.0,80.0,23.0
+4/1/2019 16:01:57,no,0,mu,nee,female,neither,chilling,sun,artificial intelligence,23.0,3.0,1994.0,5.0,2.0,8.0,70.0,1.0
+4/1/2019 16:01:57,yes,1,mu,ja,male,fat,music,books,bioinformatics and systems biology,28.0,12.0,1993.0,5.0,10.0,2.0,26.0,23.0
+4/1/2019 16:01:57,yes,0,mu,ja,male,neither,sex,eating out,computer science,1.0,9.0,1995.0,3.0,0.25,42.0,65.0,1.0
+4/1/2019 16:01:57,no,0,sigma,ja,male,neither,waking up energized,fun things planned,artificial intelligence,16.0,2.0,1990.0,5.0,0.1,3.0,9001.0,3.0
+4/1/2019 16:01:57,yes,0,mu,ja,male,neither,sun,feyenoord,econometrics and operations research,25.0,12.0,1995.0,1.0,10.0,3.0,5.0,0.0
+4/1/2019 16:01:57,no,1,mu,nee,unknown,neither,weather,😎,computational science,25.0,12.0,1995.0,,100.0,,,
+4/1/2019 16:01:58,yes,0,mu,ja,male,i have no idea what you are talking about,sun,round,business administration/business analytics,24.0,12.0,1993.0,0.0,220.0,6.0,92.0,7.0
+4/1/2019 16:01:58,no,0,sigma,ja,female,fat,sunny day,positive mood,econometrics and operations research,30.0,12.0,1992.0,5.0,10.0,11.0,50.0,2.0
+4/1/2019 16:01:58,yes,1,mu,ja,unknown,i have no idea what you are talking about,sun,sleep,artificial intelligence,19.0,2.0,1996.0,2.0,1.0,9.76,10.0,23.0
+4/1/2019 16:01:58,yes,1,mu,nee,female,neither,sun,dinner,artificial intelligence,23.0,9.0,1996.0,2.0,5.0,4.0,80.0,23.0
+4/1/2019 16:01:58,no,0,mu,ja,male,i have no idea what you are talking about,peace everywhere,don't know,bioinformatics and systems biology,20.0,9.0,1987.0,1.0,25.0,7.0,100.0,5.0
+4/1/2019 16:01:58,yes,1,mu,ja,male,slim,sunny weather,sports activity,artificial intelligence,20.0,9.0,1995.0,2.0,1.0,4.0,30.0,23.0
+4/1/2019 16:01:59,yes,1,mu,nee,male,fat,food,waking up on time,artificial intelligence,3.0,6.0,1995.0,1.0,5.0,9.0,20.0,2.0
+4/1/2019 16:01:59,no,1,unknown,ja,male,neither,extra hours of sleep,empty to do list ,computer science,15.0,6.0,1993.0,350.0,120.0,6.0,1.0,0.0
+4/1/2019 16:02:00,yes,1,mu,ja,male,unknown,¯\_(ツ)_/¯,¯\_(ツ)_/¯,artificial intelligence,1969.0,69.0,1969.0,8.0,100.0,3.0,9001.0,3.0
+4/1/2019 16:02:00,yes,0,mu,ja,female,i have no idea what you are talking about,the sun,soccer,business administration/business analytics,25.0,3.0,1969.0,2.0,80.0,9.0,20.0,23.0
+4/1/2019 16:02:00,yes,0,mu,nee,female,neither,sunny,not working,humanities research,19.0,4.0,1969.0,6.0,80.0,9.0,30.0,0.0
+4/1/2019 16:02:00,no,0,mu,nee,female,fat,sunny day,"friends, having a dring and bites",artificial intelligence,14.0,9.0,1969.0,6.0,0.04,4.0,30.0,22.0
+4/1/2019 16:02:00,no,0,mu,nee,male,fat,beer,sunshine,business administration/business analytics,23.0,2.0,1969.0,5.0,5.0,8.0,70.0,1.0
+4/1/2019 16:02:00,no,1,mu,nee,male,fat,sunshine,no obligations,artificial intelligence,3.0,5.0,1995.0,23.0,5.0,6.0,65.0,22.0
+4/1/2019 16:02:00,no,0,mu,nee,male,neither,hookers,cocaine,finance,6.0,5.0,1995.0,8.0,100.0,7.0,0.0,24.0
+4/1/2019 16:02:00,no,1,mu,ja,male,neither,if i accomplish all the goal i had prefixed for that day,if i don't have to postpone anything,computer science,6.0,13.0,195.0,0.0,50.0,3.14159265359,20.0,3.0
+4/1/2019 16:02:00,yes,1,mu,nee,female,slim,sun,time with friends,artificial intelligence,3.0,7.0,1995.0,1.0,50.0,6674336895322579.0,40.0,24.0
+4/1/2019 16:02:00,yes,0,sigma,nee,female,fat,sunny weather,good company,bioinformatics and systems biology,26.0,8.0,1996.0,1.0,60.0,5.0,15.0,22.0
+4/1/2019 16:02:01,no,0,mu,nee,female,neither,sunny,friends&beer,econometrics and operations research,21.0,2.0,1996.0,0.0,20.0,1.0,50.0,0.0
+4/1/2019 16:01:59,yes,unknown,mu,unknown,female,fat,sunny weather,a smooth day,business administration/business analytics,28.0,12.0,1994.0,1.0,0.0,3.33,70.0,0.0
+4/1/2019 16:02:01,no,0,mu,nee,female,slim,nice food,no studying,health sciences,5.0,11.0,1996.0,2.0,0.5,8.0,10.0,1.0
+4/1/2019 16:02:02,yes,0,mu,nee,male,unknown,sunny weather,weekend,computer science,3.0,4.0,1996.0,3.0,100470.0,7.0,101.0,23.0
+4/1/2019 16:02:02,yes,0,mu,ja,female,fat,sun shine,pet,business administration/business analytics,3.0,8.0,1996.0,3.0,5.0,7.0,0.0,2.0
+4/1/2019 16:02:02,yes,0,mu,ja,male,neither,enough food.,the sun in the afternoon.,business administration/business analytics,3.0,8.0,1995.0,400.0,80.0,3.14,70.45,23.0
+4/1/2019 16:02:03,yes,1,mu,ja,male,neither,no class,no work,computer science,3.0,8.0,1995.0,400.0,12.0,,9999999999999.0,
+4/1/2019 16:02:02,yes,1,mu,ja,male,neither,nothing to do,o,business administration/business analytics,8.0,8.0,1995.0,5.0,100475.0,1.0,0.0,
+4/1/2019 16:02:02,yes,1,mu,ja,male,fat,head,food,artificial intelligence,13.0,1.0,1995.0,7.0,1004700.21,7.0,34.0,3.0
+4/1/2019 16:02:02,yes,0,mu,nee,male,neither,it being productive,having time to do everything,stochastics and financial mathematics,28.0,11.0,1995.0,1.0,100471.0,2.0,60.0,23.0
+4/1/2019 16:02:02,no,0,mu,nee,male,slim,get money,food,finance,28.0,4.0,1996.0,3.0,0.0,7.0,30.0,24.0
+4/1/2019 16:02:03,yes,0,mu,ja,male,neither,board games,beer,information sciences,28.0,4.0,1996.0,2.0,60.0,42.0,0.0,22.0
+4/1/2019 16:02:03,yes,1,mu,ja,female,i have no idea what you are talking about,good food,nice weather,artificial intelligence,8.0,1.0,1997.0,2.0,100.0,3.0,50.0,1.0
+4/1/2019 16:02:04,yes,1,mu,ja,male,fat,nobody bothers me,sun,information sciences,1.0,1.0,1971.0,4.0,2.0,3736536379120.0,10.0,2.0
+4/1/2019 16:02:04,yes,1,mu,ja,male,fat,beer,sex,business administration/business analytics,1.0,1.0,1994.0,1.0,66.0,12.0,20.0,23.0
+4/1/2019 16:02:04,no,0,mu,nee,male,slim,money,food,computer science,4.0,9.0,1995.0,8.0,80.0,4.0,50.0,0.0
+4/1/2019 16:02:04,yes,0,mu,ja,male,i have no idea what you are talking about,football,nice food,business administration/business analytics,31.0,10.0,1995.0,1.0,99.0,9.0,0.0,23.0
+4/1/2019 16:02:04,no,0,unknown,nee,male,fat,good relationships that day,having learned something usefull,econometrics and operations research,17.0,7.0,1995.0,4.0,10.0,313.0,50.0,0.0
+4/1/2019 16:02:04,yes,0,mu,ja,male,i have no idea what you are talking about,the number of tasks i was able to complete.,had a meaningful conversation ,information sciences,9.0,1.0,1995.0,8.0,0.0,9.0,42.0,4.0
+4/1/2019 16:02:04,no,1,mu,nee,male,fat,the sun,working out,econometrics and operations research,1.0,10.0,1991.0,0.0,0.2,8.0,23.0,20.0
+4/1/2019 16:02:05,no,1,mu,ja,male,slim,good weather,shuqi,computer science,1.0,10.0,1995.0,2.0,100.0,6.0,3.0,2.0
+4/1/2019 16:02:05,yes,1,mu,ja,male,neither,having no exam,flipping tables,other,0.0,0.0,0.0,5.0,,3.0,9000.0,2.0
+4/1/2019 16:02:05,no,1,mu,ja,female,neither,relax,good meal,computer science,26.0,2.0,0.0,2.0,1.0,2.0,50.0,2.0
+4/1/2019 16:02:06,no,0,mu,nee,male,slim,sporten ,thuis komen,finance,24.0,4.0,1996.0,4.0,10.0,7.0,0.0,0.0
+4/1/2019 16:02:06,no,0,mu,nee,female,i have no idea what you are talking about,not sitting in a room with 400 students,no 9 am lectures,computational science,30.0,11.0,1992.0,8.0,0.22,7.0,30.0,2.0
+4/1/2019 16:02:06,no,0,sigma,nee,male,neither,meeting up with nice people,good weather,computational science,11.0,6.0,1993.0,1.0,1.0,9.0,5.0,1.0
+4/1/2019 16:02:06,no,0,sigma,ja,male,unknown,good weather ,nothing to worry about ,bioinformatics and systems biology,4.0,2.0,1993.0,8.0,10.0,7.0,99.0,24.0
+4/1/2019 16:02:06,no,unknown,mu,nee,male,i have no idea what you are talking about,data bitches,blow,finance,1.0,1.0,1993.0,2.0,1.0,1.0,100.0,23.0
+4/1/2019 16:02:07,yes,0,mu,nee,female,neither,nice wheater,hobby,business administration/business analytics,19.0,10.0,1995.0,2.0,0.25,4.0,20.0,23.0
+4/1/2019 16:02:07,yes,1,mu,ja,male,i have no idea what you are talking about,no obligations,games,econometrics and operations research,21.0,8.0,1996.0,0.0,0.5,7.0,75.0,1.0
+4/1/2019 16:02:07,yes,0,mu,ja,male,neither,nice weather,no deadlines,business administration/business analytics,17.0,9.0,1996.0,2.0,30.0,8.0,60.0,23.0
+4/1/2019 16:02:07,yes,0,sigma,ja,female,i have no idea what you are talking about,relaxing,family,bioinformatics and systems biology,17.0,9.0,1994.0,10.0,50.0,2.0,90.0,4.0
+4/1/2019 16:02:08,yes,1,mu,ja,male,fat,day at the beach,the sun,artificial intelligence,11.0,4.0,1995.0,3.0,2.0,7.0,15.0,1.0
+4/1/2019 16:02:09,yes,0,mu,nee,female,fat,sun,nice food,business administration/business analytics,13.0,11.0,1995.0,1.0,60.0,4.0,25.0,23.0
+4/1/2019 16:02:09,yes,0,mu,ja,male,fat,it being the weekend,good weather,information sciences,30.0,7.0,1995.0,3.0,20.0,6.0,20.0,23.0
+4/1/2019 16:02:08,yes,0,mu,nee,male,fat,no lecture,no deadlines in the near future,business administration/business analytics,21.0,5.0,1996.0,8.0,2.0,1.0,43.0,23.0
+4/1/2019 16:02:11,no,0,mu,nee,male,fat,zonnige dag,f1 race,econometrics and operations research,22.0,1.0,4.0,1.0,10.0,3.14150692,67.0,23.0
+4/1/2019 16:02:12,yes,0,mu,nee,male,neither,sunshine,productivity,artificial intelligence,19.0,10.0,1995.0,5.0,1.0,5.0,5.0,3.0
+4/1/2019 16:02:11,no,0,sigma,nee,female,neither,favourite person,good sleep,humanities research,9.0,6.0,1989.0,2.0,17.0,9.0,55.0,2.0
+4/1/2019 16:02:12,unknown,0,sigma,ja,male,i have no idea what you are talking about,warmth,. ,computational science,4.0,9.0,1995.0,2.0,1.0,491995.0,90.0,24.0
+4/1/2019 16:02:13,no,1,mu,nee,male,i have no idea what you are talking about,good weather,good grades,computer science,10.0,8.0,1995.0,3.0,1.0,5.0,5.0,2.0
+4/1/2019 16:02:14,yes,1,sigma,nee,male,neither,day off,pasta,artificial intelligence,12.0,1.0,1995.0,0.0,99.0,1.0,0.0,24.0
+4/1/2019 16:02:14,no,1,unknown,ja,female,fat,no class,good weather,computer science,10.0,5.0,1995.0,3.0,100.0,5.0,20.0,4.0
+4/1/2019 16:02:15,yes,1,mu,ja,male,fat,sunshine,swimming,computational science,10.0,7.0,1994.0,7.0,4.7,5.0,7.0,1.0
+4/1/2019 16:02:15,no,1,mu,ja,male,i have no idea what you are talking about,sun,food,computer science,10.0,7.0,1994.0,5.0,212.765,7.0,100000000000.0,1.0
+4/1/2019 16:02:16,no,1,mu,ja,male,neither,sunny day of relaxation,eating delicious food ,computer science,21.0,9.0,1994.0,6.0,20.0,7.0,10.0,3.0
+4/1/2019 16:02:16,yes,0,mu,nee,male,slim,no lecture,time for sports,computational science,17.0,7.0,1996.0,2.0,77.0,7.0,17.0,1.0
+4/1/2019 16:02:16,yes,1,mu,ja,female,fat,good people,wine,computer science,20.0,3.0,1996.0,2.0,,9.0,103.0,4.0
+4/1/2019 16:02:18,yes,0,mu,nee,male,fat,not monday,yes,artificial intelligence,7.0,4.0,1996.0,3.0,40.0,3.0,55.0,2.0
+4/1/2019 16:02:20,yes,1,mu,nee,unknown,fat,time for: reading/music/training,being with a loved one,computational science,27.0,3.0,1992.0,35.0,101.0,9.999989999999999,30.0,1.0
+4/1/2019 16:02:21,yes,1,mu,ja,male,neither,sun,food,bioinformatics and systems biology,27.0,3.0,1994.0,6.0,1.0,8.0,10.0,2.0
+4/1/2019 16:02:24,yes,1,mu,ja,female,i have no idea what you are talking about,beer,petting dog (preferably more than one),computer science,20.0,2.0,1996.0,7.0,50.0,8.0,100.0,3.0
+4/1/2019 16:02:23,no,0,mu,nee,male,neither,goud,music,computational science,14.0,4.0,1996.0,8.0,1.0,5.0,200.0,22.0
+4/1/2019 16:02:24,yes,1,mu,ja,male,neither,sun,football game,computer science,16.0,9.0,1996.0,3.0,3.0,3.0,15.0,2.0
+4/1/2019 16:02:25,yes,1,mu,nee,male,fat,much sleep,winning,business administration/business analytics,25.0,3.0,1996.0,2.0,1.0,8.0,10.0,23.0
+4/1/2019 16:02:25,yes,1,sigma,ja,male,i have no idea what you are talking about,a nice hike,a lot of interesting work done ,artificial intelligence,25.0,7.0,1994.0,1.0,0.0,832795585298.0,15.0,3.0
+4/1/2019 16:02:29,no,0,sigma,ja,male,slim,football ,mo money ,computer science,1.0,1.0,2030.0,77.0,,7.0,200.0,0.0
+4/1/2019 16:02:39,yes,0,mu,nee,male,fat,temperature,free time,business administration/business analytics,4.0,9.0,1994.0,10.0,0.5,3.0,50.0,1.0
+4/1/2019 16:02:40,no,0,mu,nee,male,fat,nice company,new experiences,computational science,14.0,4.0,1993.0,9.0,0.25,8.8888,34.0,23.0
+4/1/2019 16:02:44,no,0,mu,nee,female,i have no idea what you are talking about,having friends around,laughing,computational science,8.0,4.0,1993.0,5.0,0.25,3.0,60.0,23.0
+4/1/2019 16:02:45,yes,1,mu,ja,male,fat,good data mining grade,pizza,business administration/business analytics,9.0,4.0,1996.0,9.0,10.0,7.0,60.0,23.0
+4/1/2019 16:02:55,yes,0,mu,ja,male,slim,good coffee,italian vineyards,business administration/business analytics,9.0,10.0,1996.0,4.0,0.1,1.0,99.9,22.0
+4/1/2019 16:02:56,no,0,mu,ja,male,fat,arsenal wins,sports,computer science,21.0,10.0,1995.0,80.0,100.0,10.0,0.0,2.0
+4/1/2019 16:03:51,no,1,sigma,ja,male,fat,eating chocolate,not being fat,artificial intelligence,20.0,11.0,1990.0,,100.0,42.0,80.0,2.0
+4/1/2019 16:31:16,no,unknown,sigma,nee,unknown,slim,chocolate ,poepen,psychology,14.0,7.0,1998.0,50.0,100.0,79.0,98.0,1.0
+4/1/2019 16:53:39,yes,1,mu,ja,female,neither,sunshine,coffee,artificial intelligence,25.0,11.0,1994.0,5.0,100.0,5.0,55.0,0.0
