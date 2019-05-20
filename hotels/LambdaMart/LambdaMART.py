@@ -1,30 +1,30 @@
 import pyltr
 import pandas as pd
 import numpy as np
+from sklearn.model_selection import KFold, train_test_split
 import os
 
 train_file = 'test_files/train.txt'
+#test_file = 'complete_files/test.txt'
 test_file = 'test_files/test.txt'
+kfold = False
 
 with open(train_file) as trainfile, \
         open(test_file) as evalfile:
     print('opening and reading train file...')
-    TX, Ty, Tqids, _ = pyltr.data.letor.read_dataset(trainfile)
+    X, y, qids, _ = pyltr.data.letor.read_dataset(trainfile)
     print('train file succesfully read.')
     print('opening and reading test file...')
     EX, Ey, Eqids, _ = pyltr.data.letor.read_dataset(evalfile)
     print('test file succesfully read.')
 
-metric = pyltr.metrics.NDCG(k=5, gain_type='identity')
-
-# Only needed if you want to perform validation (early stopping & trimming)
-#monitor = pyltr.models.monitors.ValidationMonitor(
-#    VX, Vy, Vqids, metric=metric, stop_after=250)
+#metric = pyltr.metrics.NDCG(k=5, gain_type='identity')
+metric = pyltr.metrics.NDCG(k=5)
 
 print('creating model...')
 model = pyltr.models.LambdaMART(
     metric=metric,
-    n_estimators=10,
+    n_estimators=11,
     learning_rate=0.02,
     max_features=0.5,
     query_subsample=0.5,
@@ -33,9 +33,24 @@ model = pyltr.models.LambdaMART(
     verbose=1,
 )
 
-print('fitting model...')
-model.fit(TX, Ty, Tqids)
-#model.fit(TX, Ty, Tqids, monitor=monitor)
+if kfold == True:
+    kf = KFold(n_splits = 2, shuffle = True)
+    for train_index, val_index in kf.split(X):
+        TX, VX = X[train_index], X[val_index]
+        Ty, Vy = y[train_index], y[val_index]
+        Tqids, Vqids = qids[train_index], qids[val_index]
+        # Only needed if you want to perform validation (early stopping & trimming)
+        monitor = pyltr.models.monitors.ValidationMonitor(
+            VX, Vy, Vqids, metric=metric)
+        print('fitting model...')
+        model.fit(TX, Ty, Tqids, monitor=monitor)
+else:
+    #TX, Ty, Tqids = X, y, qids
+    TX, VX, Ty, Vy, Tqids, Vqids = train_test_split(X, y, qids, test_size=0.2, shuffle=False)
+    print('fitting model...')
+    monitor = pyltr.models.monitors.ValidationMonitor(
+            VX, Vy, Vqids, metric=metric)
+    model.fit(TX, Ty, Tqids, monitor=monitor)
 
 print('predicting model...')
 Epred = model.predict(EX)
