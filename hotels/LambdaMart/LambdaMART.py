@@ -4,6 +4,7 @@ import numpy as np
 from sklearn.model_selection import KFold, train_test_split
 import os
 
+#train_file = 'complete_files/train.txt'
 train_file = 'test_files/train.txt'
 #test_file = 'complete_files/test.txt'
 test_file = 'test_files/test.txt'
@@ -19,14 +20,14 @@ with open(train_file) as trainfile, \
     print('test file succesfully read.')
 
 #metric = pyltr.metrics.NDCG(k=5, gain_type='identity')
-metric = pyltr.metrics.NDCG(k=5)
+metric = pyltr.metrics.NDCG(k=10)
 
 print('creating model...')
 model = pyltr.models.LambdaMART(
     metric=metric,
-    n_estimators=11,
+    n_estimators=50,
     learning_rate=0.02,
-    max_features=0.5,
+    max_features='log2',
     query_subsample=0.5,
     max_leaf_nodes=10,
     min_samples_leaf=64,
